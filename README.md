@@ -66,4 +66,5 @@ CREATE DATABASE equipment_dapp;
 
 ## Author
 
-Aayush
+Aayush  
+GitHub: https://github.com/pratik1234567n/equipment-dapp
