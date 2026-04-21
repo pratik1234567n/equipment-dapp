@@ -66,4 +66,4 @@ CREATE DATABASE equipment_dapp;
 
 ## Author
 
-Pratik
+Aayush
